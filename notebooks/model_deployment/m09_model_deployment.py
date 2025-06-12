@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import pandas as pd
+import pandas as ps
 from sklearn.externals import joblib
 import sys
 import os
